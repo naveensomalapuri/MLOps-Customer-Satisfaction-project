@@ -1,0 +1,14 @@
+1. First created all the folder which are
+    data
+    saved_model
+    src
+    steps
+in the customer_statisfaction folder or directory
+and also creatd files which are
+    __init__.py
+    README.md 
+    requirements.txt
+    run_pipeline.py
+in the customer_statisfaction folder or directory
+
+2.
